@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119596204492",
+    "project_id": "project-99f92",
+    "storage_bucket": "project-99f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119596204492:android:d11011db4230f3af155d69",
+        "android_client_info": {
+          "package_name": "com.addbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119596204492-lb49n5f4aqhq0eup5ko5n7gkhbj9hh71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdoFqCOFuCaypraHikWenjMluDRI1tjMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119596204492-lb49n5f4aqhq0eup5ko5n7gkhbj9hh71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
